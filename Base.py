@@ -1,4 +1,4 @@
-Usuario = [
+usuario = [
 {
     'id' : 1,
     'nome' : 'Taísa',
@@ -18,7 +18,7 @@ Usuario = [
     'nome' : 'Ana',
     'Serviço' : 'Manutenção',
     'Data' : '08/07/2023'
-}
+},
 
 {
     'id' : 4,
